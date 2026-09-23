@@ -6,7 +6,7 @@ type Props = {
 }
 
 
-export default function ActivityDetail({ activity , cancelSelectActivity }: Props) {
+export default function ActivityDetail({ activity, cancelSelectActivity }: Props) {
   return (
     <Card sx={{ borderRadius: 3 }}>
       <CardMedia

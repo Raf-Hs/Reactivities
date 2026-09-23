@@ -30,7 +30,7 @@ export default function ActivityDashboard({ activities,
             cancelSelectActivity={cancelSelectActivity}
           />
         }
-        <ActivityForm/>
+        <ActivityForm />
       </Grid2>
     </Grid2>
   )
